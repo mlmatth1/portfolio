@@ -4,6 +4,11 @@ body {
 	font-weight: 300;
 }
 
+img {
+	width: 100%;
+
+}
+
 p {
     word-wrap: break-word;
 
@@ -25,4 +30,9 @@ p {
 
 .title-logo {
 	margin-top: 20px;
+}
+
+.logo {
+	width: 100px;
+	height: 100px;
 }
