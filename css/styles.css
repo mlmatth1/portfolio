@@ -1,31 +1,27 @@
 body {
-	font-family: 'Lato', sans-serif;
+	font-family: "Lato", sans-serif;
 	color: #747704;
 	font-weight: 300;
 }
 
 img {
 	width: 100%;
-
 }
 
 p {
     word-wrap: break-word;
-
 }
 
 .text-muted {
-	color: #BCBBBB;
+	color: #bcbbbb;
 }
 
 .text-thin {
 	font-weight: 100;
-	
 }
 
 .title-super {
 	font-size: 60px;
-	
 }
 
 .title-logo {
@@ -35,4 +31,8 @@ p {
 .logo {
 	width: 100px;
 	height: 100px;
+}
+
+.hr-rule {
+	border-bottom: 1px solid black;
 }
